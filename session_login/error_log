@@ -1,0 +1,4 @@
+[25-May-2021 14:13:41 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\xampp\htdocs\PHP_E\session_login\index.php on line 27
+[25-May-2021 14:15:34 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\PHP_E\session_login\home.php on line 3
+[25-May-2021 14:16:24 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\PHP_E\session_login\home.php on line 5
+[25-May-2021 14:17:10 Europe/Berlin] PHP Notice:  Undefined index: username in C:\xampp\htdocs\PHP_E\session_login\home.php on line 5
